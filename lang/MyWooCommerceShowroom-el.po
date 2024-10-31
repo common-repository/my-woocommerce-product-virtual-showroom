@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyWooCommerceShowroom\n"
+"POT-Creation-Date: 2017-12-07 15:57+0200\n"
+"PO-Revision-Date: 2017-12-07 16:00+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../MyWooCommerceShowroom-options.php:49 ../MyWooCommerceShowroom.php:323
+msgid "Select Photo"
+msgstr "Επιλέξτε Φωτογραφία"
+
+#: ../MyWooCommerceShowroom-options.php:50 ../MyWooCommerceShowroom.php:324
+msgid "Select Product"
+msgstr "Επιλέξτε Προιόν"
+
+#: ../MyWooCommerceShowroom-options.php:51 ../MyWooCommerceShowroom.php:325
+msgid "Preview Product"
+msgstr "Δοκιμάστε το Προιόν"
+
+#: ../MyWooCommerceShowroom-options.php:54 ../MyWooCommerceShowroom.php:317
+msgid "Upload a Picture of your Space"
+msgstr "Ανεβάστε μια Φωτογραφία του Χώρου σας"
+
+#: ../MyWooCommerceShowroom-options.php:71 ../MyWooCommerceShowroom.php:318
+msgid "Click On a Product to Select"
+msgstr "Πατήστε με το Mouse σε ένα Προιόν για Επιλογή"
+
+#: ../MyWooCommerceShowroom-options.php:79 ../MyWooCommerceShowroom.php:319
+msgid "Preview Product - Move & Resize"
+msgstr ""
+"Δοκιμάστε το Προιόν - Σύρετε το και Αλλάξτε το Μέγεθος του (βελάκι κάτω "
+"δεξιά)"
+
+#: ../MyWooCommerceShowroom-options.php:88
+#: ../MyWooCommerceShowroom-options.php:89
+msgid "Click on Product Image to Resize"
+msgstr "Πατήστε με το Mouse σε ένα Προιόν για Επιλογή"
+
+#: ../MyWooCommerceShowroom.php:42 ../MyWooCommerceShowroom.php:326
+msgid ""
+"Picture uploaded! Proceed to Step 2 by clicking the tab above or click on "
+"the picture if you would like to upload a different one."
+msgstr ""
+"Η Φωτογραφία σας Επιλέχθηκε! Προχωρήστε στο 2ο Βήμα πατώντας το κουμπί "
+"παραπάνω ή Πατήστε πάνω στη φωτογραφία σας αν θέλετε να επιλέξετε μια άλλη."
+
+#: ../MyWooCommerceShowroom.php:43 ../MyWooCommerceShowroom.php:327
+msgid ""
+"Product selected! Proceed to Step 3 by clicking the tab above or click on "
+"another product to select."
+msgstr ""
+"Επιλέξατε προιόν! Προχωρήστε στο 3ο Βήμα πατώντας στο κουμπί παραπάνω ή "
+"πατήστε σε άλλο προιόν για επιλογή."
+
+#: ../MyWooCommerceShowroom.php:169
+msgid "Description/instructions for your Showroom"
+msgstr "Περιγραφή/Οδηγίες για τους Χρήστες που θα χρησιμοποιήσουν το Showroom"
+
+#: ../MyWooCommerceShowroom.php:173
+msgid "Images"
+msgstr "Εικόνες"
+
+#: ../MyWooCommerceShowroom.php:176
+msgid "Select Products from Specific Post Types"
+msgstr "Επιλέξτε προιόντα από post type της επιλογής σας"
+
+#: ../MyWooCommerceShowroom.php:179
+msgid "Select Products from Specific Vocabulary / Taxonomy"
+msgstr "Επιλέξτε προιόντα από κατηγοριοποίηση της επιλογής σας"
+
+#: ../MyWooCommerceShowroom.php:182
+msgid "Select Products from Specific Terms"
+msgstr "Επιλέξτε προιόντα που ανήκουν σε συγκεκριμένο όρο κατηγορίας"
+
+#: ../MyWooCommerceShowroom.php:213 ../MyWooCommerceShowroom.php:214
+msgid "Allow your customers to check your products on a picture they upload!"
+msgstr ""
+"Επιτρέψτε τους Χρήστες να Προβάρουν τα Προιόντα σας σε Φωτογραφία που "
+"Ανεβάζουν και Αυξήστε τις Πωλήσεις σας!"
+
+#: ../MyWooCommerceShowroom.php:214
+msgid "INSTRUCTIONS"
+msgstr "ΟΔΗΓΙΕΣ"
+
+#: ../MyWooCommerceShowroom.php:217
+msgid "General"
+msgstr "Γενικά"
+
+#: ../MyWooCommerceShowroom.php:227
+msgid ""
+"Choose photos with no background for your products to appear attractive in "
+"the showroom."
+msgstr ""
+"Επιλέξτε Φωτογραφίες Χωρίς Background για να εμφανίζονται σωστές και "
+"ελκυστικές στο Showroom."
+
+#: ../MyWooCommerceShowroom.php:228
+msgid ""
+"Once you are ready, enter the <strong>shortcode [MyWooCommerceShowroom] in "
+"any page</strong> you like to run your showroom!"
+msgstr ""
+"Μόλις είστε έτοιμοι, εισάγετε τον shortcode  [MyWooCommerceShowroom] σε "
+"οποιαδήποτε σελίδα θέλετε να είναι το Showroom! "
+
+#: ../MyWooCommerceShowroom.php:252
+msgid "INCREASE YOUR SALES NOW!"
+msgstr "ΑΥΞΗΣΤΕ ΤΙΣ ΠΩΛΗΣΕΙΣ ΣΑΣ ΤΩΡΑ!"
+
+#: ../MyWooCommerceShowroom.php:256
+msgid "Customize Showroom Colors"
+msgstr "Αλλάξτε το Στυλ και τα Χρώματα του Showroom"
+
+#: ../MyWooCommerceShowroom.php:257
+msgid "Match Your Business Case"
+msgstr ""
+"Ταιριάξτε το με την Περίπτωση της Επιχείρησής σας  - έπιπλα, γυαλιά, tshirt"
+
+#: ../MyWooCommerceShowroom.php:258
+msgid "Interactive guide for User"
+msgstr "Διαδραστικός Οδηγός για τους Χρήστες"
+
+#: ../MyWooCommerceShowroom.php:259
+msgid "Product Filtering in Frontend"
+msgstr "Φιλτράρισμα Προιόντων από το Χρήστη"
+
+#: ../MyWooCommerceShowroom.php:261
+msgid ""
+"You can Choose Content Type  to show. If left blank Woocommerce Product Type "
+"will be the default."
+msgstr ""
+"Μπορείτε να επιλέξετε Τύπο Περιεχομένου για εμφάνιση. Αν παραμείνει κενό ο "
+"Τύπος περιεχομένο \"product\" για το woocommerce θα είναι η προεπιλογή."
+
+#: ../MyWooCommerceShowroom.php:262
+msgid "Choose Category of the Content Type"
+msgstr "Επιλέξτε Κατηγορία για τον τύπο περιεχομένου"
+
+#: ../MyWooCommerceShowroom.php:263
+msgid "Choose Terms"
+msgstr "Επιλέξτε όρους"
+
+#: ../MyWooCommerceShowroom.php:264
+msgid "Choose Number Of Products"
+msgstr "Επιλέξτε αριθμό προιόντων"
+
+#: ../MyWooCommerceShowroom.php:265
+msgid ""
+"It links the product pictures, displays actual links for the product pages"
+msgstr "Συνδέει την φωτογραφία του προιόντος με τη σελίδα του προιόντος"
+
+#: ../MyWooCommerceShowroom.php:266
+msgid "Add to cart functionality for each product"
+msgstr "Δυνατότητα Προσθήκης στο καλάθι"
+
+#: ../MyWooCommerceShowroom.php:267
+msgid ""
+"In the showroom the customer may display multiple images on top of each "
+"bachground"
+msgstr "Στο Showroom ο χρήστης μπορεί να προσθέσει πολλαπλά προιόντα"
+
+#: ../MyWooCommerceShowroom.php:268
+msgid "Allow the User to take Screenshot of the Showroom Area"
+msgstr "Επιτρέπει το χρήστη να τραβήξει Φωτογραφία της περιοχής Showroom"
+
+#: ../MyWooCommerceShowroom.php:276
+msgid "GET IT HERE"
+msgstr "ΑΠΟΚΤΗΣΤΕ ΤΟ ΕΔΩ"
+
+#: ../MyWooCommerceShowroom.php:313
+msgid "Upload a picture of your Space - Check how our Product Fits!"
+msgstr ""
+"Αανεβάστε Φωτογραφία του Χώρου σας  - Δείτε Πώς Ταιριάζει το Προιόν μας!"
+
+#: ../MyWooCommerceShowroom.php:314
+msgid "Select a product"
+msgstr "Επιλέξτε προιόν"
+
+#: ../MyWooCommerceShowroom.php:315
+msgid "View"
+msgstr "Δείτε το"
+
+#: ../MyWooCommerceShowroom.php:316
+msgid "Here"
+msgstr "Εδώ"
+
+#: ../MyWooCommerceShowroom.php:320
+msgid "Previous"
+msgstr "Προηγουμενο"
+
+#: ../MyWooCommerceShowroom.php:321
+msgid "Next"
+msgstr "Επόμενο"
+
+#: ../MyWooCommerceShowroom.php:322
+msgid "Download Picture"
+msgstr "Κατεβάστε ως Φωτογραφία"
+
+#: ../MyWooCommerceShowroom.php:328
+msgid ""
+"Allow your customers to check your products on a picture they upload! "
+"Increase your Sales Now!"
+msgstr ""
+"Επιτρέψτε τους Χρήστες να Προβάρουν τα Προιόντα σας σε Φωτογραφία που "
+"Ανεβάζουν και Αυξήστε τις Πωλήσεις σας!"
+
+#~ msgid "Premium Version"
+#~ msgstr "Premium Έκδοση"
+
+#~ msgid "View Your Cart"
+#~ msgstr "Δείτε το Καλάθι σας"
+
+#~ msgid "Add to Cart"
+#~ msgstr "Προσθήκη στο Καλάθι"
+
+#~ msgid "Price"
+#~ msgstr "Τιμή"
+
+#~ msgid "Added to cart!"
+#~ msgstr "Προστέθηκε στο Καλάθι!"
+
+#~ msgid "Use Media Gallery Pics"
+#~ msgstr "Χρησιμοποιήστε Φωτογραφίες από τη Gallery"
+
+#~ msgid "Alternative Post Type"
+#~ msgstr ""
+#~ "Εναλλακτικός Τύπος Περιεχομένου (πλην των προιόντων του Woocommerce)"
+
+#~ msgid "Taxonomy"
+#~ msgstr "Ταξινόμηση / Κατηγοριοποίηση"
+
+#~ msgid "Category terms"
+#~ msgstr "Όροι Ταξινόμησης"
+
+#~ msgid "Number of Products to Appear in Showroom"
+#~ msgstr "Αριθμός Προιόντων που θα Εμφανιστούν στο Showroom"
+
+#~ msgid "Options"
+#~ msgstr "Επιλογές"
+
+#~ msgid ""
+#~ "Select Post Type, Number of Products to display in the Showroom, Content "
+#~ "Taxonomies."
+#~ msgstr ""
+#~ "Επιλέξτε Τύπο Περιεχομένου, Αριθμό Προιόντων για Προβολή, Ταξινόμηση-"
+#~ "Κατηγορία του Περιεχομένου."
